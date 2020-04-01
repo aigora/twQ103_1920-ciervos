@@ -8,4 +8,4 @@ Fernando Casillas(54534),Jaime Casas(54533),Héctor Domínguez(54945)
 
 ## Objetivos del trabajo
 
-Vamos a diseñar una pagina donde el usuario podra mirar los precios de los coches en stock y asi poder venderlo o comprarlo para comparar asi todos los tipos de coches con sus diseños.
+Vamos a diseñar una pagina donde el usuario podra mirar los precios de los coches en stock y asi poder venderlo o comprarlo.
