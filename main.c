@@ -6,7 +6,7 @@ int main()
 {
     
     	int opcion, opcion2;
-	//int vender,comprar,alquilar;
+	//char vender,comprar,alquilar;
 	char id, contrasenia, nid, ncontrasenia;
         printf("1-Crear nuevo usuario:\n" );
         printf("2-Iniciar sesion:\n");
