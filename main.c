@@ -20,9 +20,9 @@ int main(int argc, const char * argv[]) {
     
     switch (opc1)
     {
-        case 1: printf( "Registar nuevo usuario:\n");
+        case 1: printf( "Registar nuevo usuario: ");
             scanf( "%s", &id );
-            printf( "Registar nueva contrasenia:\n");
+            printf( "Registar nueva contrasenia: ");
             scanf( "%s", &contraseña);
             break;
             
@@ -30,7 +30,7 @@ int main(int argc, const char * argv[]) {
         case 2:
             printf( "Nombre usuario: ");
             scanf( "%s", &nid );
-            printf( "Contraseña\n");
+            printf( "Contraseña: ");
             scanf( "%s", &ncontraseña );
             printf("Qué desea?\n");
             printf("1-Vender\n");
