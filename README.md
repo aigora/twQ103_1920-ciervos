@@ -1,6 +1,6 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Compra y venta de coches
 
 ## Integrantes del equipo
 .
@@ -8,4 +8,4 @@ Fernando Casillas(54534),Jaime Casas(54533),Héctor Domínguez(54945)
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Vamos a diseñar una pagina donde el usuario podra mirar los precios de los coches en stock y asi poder venderlo o comprarlo.
