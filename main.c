@@ -6,8 +6,8 @@ int main()
 {
     
     	int opcion, opcion2;
-		//int vender,comprar,alquilar;
-		char id, contrasenia, nid, ncontrasenia;
+	//int vender,comprar,alquilar;
+	char id, contrasenia, nid, ncontrasenia;
         printf("1-Crear nuevo usuario:\n" );
         printf("2-Iniciar sesion:\n");
 	printf("3-Salir.\n");
@@ -40,12 +40,12 @@ int main()
 							break;
 						case 2:
 							printf("Usted a elegido la opcion de vender");
-                    		//scanf("%s", &vender);
-                    		break;
-                    	case 3:
-                    		printf("Usted a elegido la opcion de alquilar");
-                    		//scanf("%s",&alquilar);
-                    	break;
+                    					//scanf("%s", &vender);
+                    					break;
+                    				case 3:
+                    					printf("Usted a elegido la opcion de alquilar");
+                    					//scanf("%s",&alquilar);
+                    					break;
                 	}
                     break;
                     
