@@ -10,7 +10,7 @@ int main()
 		char id, contrasenia, nid, ncontrasenia;
         printf("1-Crear nuevo usuario:\n" );
         printf("2-Iniciar sesion:\n");
-		printf("3-Salir.\n");
+	printf("3-Salir.\n");
         scanf("%d", &opcion);
 
         
