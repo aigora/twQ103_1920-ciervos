@@ -310,7 +310,7 @@ switch(opcion)
 								printf("%s %s %s\n", x, y, z);
 								NumeroCoches++;
 	}
-	
+	// Mejorar el contador ya que el primer bucle el contador lo hace bien, al siguiente pone numejor al azar.
 	printf("COCHES EN STOCK: %d\n", NumeroCoches);
 	
 	fclose(pstock);
