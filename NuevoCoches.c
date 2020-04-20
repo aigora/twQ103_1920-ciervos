@@ -126,7 +126,7 @@ switch(opcion)
 			{
 					if(nids==0)
 					{
-						printf("Todavia no hay ningun usuario registrado. Cree un usuario antes.");
+						printf("Todavia no hay ningun usuario registrado.Cree un usuario antes.");
 						break;
 					}
 					else
@@ -151,7 +151,7 @@ switch(opcion)
 									for(i=0;i<nids;i++)
 									{
 										
-										check=strcmp(nid,registrar[i].id); //Comparamos con strcmp el nombre introducido con los que hay en el fichero registrar
+										check=strcmp(nid,registrar[i].id);   //Comparamos con strcmp el nombre introducido con los que hay en el fichero registrar
 										if(check==0)
 										{
 											printf("El nombre es correcto. Puede continuar\n");
@@ -176,7 +176,7 @@ switch(opcion)
 									scanf("%s",pass);
 									for(i=0;i<nids;i++)
 									{
-										check1=strcmp(pass,registrar[i].contrasenia); //Comparammos la contrase? que introduce el usuario con las ya registradas en el caso 1
+										check1=strcmp(pass,registrar[i].contrasenia);  //Comparamos con strcmp la contraseña con los que hay en el fichero registrar
 										if(check1==0)
 										{
 											printf("Contraseña correcta\n");
