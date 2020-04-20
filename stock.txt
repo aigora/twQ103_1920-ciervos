@@ -1,0 +1,7 @@
+nuevo    audi    KDJ
+viejo    mercedes    5342SDS
+nuevo    ferrari    KDG
+nuevo    mercedes    2213KFG
+fer    dwg    2134
+hola    hola    hola
+holaa    holaa    holaa
