@@ -1,0 +1,11 @@
+bueno    fiat    3467BD
+bueno    fiat    4345YRY
+malo    ferrari    4211DDD
+malo    citroen    5454URR
+malo    ferrari    5555SSS
+buena    ferrari    3444GGG
+bueno    porche    6363AAA
+normal    Fiat    1234GHJ
+normal    ferrari    25352gdg
+malo    ferrari    34324f
+fer    fer    fer
